@@ -4,7 +4,6 @@ int main(){
     int height;
     printf("height : ");
     scanf("%d" , &height);
-    int x=0;
     for (int i=0;i<height;i++){
         for (int h=i;h<height;h++){
             printf(" ");
